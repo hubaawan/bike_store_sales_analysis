@@ -1,4 +1,4 @@
-# bike_store_sales_analysi
+# bike_store_sales_analysis
 🚲 Bike Store Sales Analysis
 Data Science | Exploratory Data Analysis (EDA) | Python
 This project focuses on analyzing sales data from a bike store to uncover key business insights. By using Python, I explored customer behavior, product performance, and revenue trends to help drive data-backed decision-making.
